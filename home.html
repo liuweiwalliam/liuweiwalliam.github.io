@@ -1,7 +1,13 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
+    <meta http-equiv="Content-Type">
+    <meta content="text/html; charset=utf-8">
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1,maximum-scale=1, user-scalable=no">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black">
+    <meta name="format-detection" content="telephone=no">
     <title>主页</title>
     <style>
         html body{
@@ -32,6 +38,12 @@
             align-items: center;
             display: flex;
         }
+        @media (max-width: 720px ) {
+            .block {
+                width: 90px;
+                height: 60px;
+            }
+        }
 
         .block:hover {
             border: 2px solid aqua;
@@ -52,11 +64,12 @@
         }
 
         .baidu_input {
-            width: 402px;
+            width: 66vw;
+            max-width: 402px;
             height: 20px;
             padding: 10px 0;
             border: 1px solid #C3C3C3;
-            margin: 3px 0 0 60px;
+            margin: 3px 0 0 0;
             font: 16px arial;
             -webkit-appearance: textfield;
             background-color: white;
