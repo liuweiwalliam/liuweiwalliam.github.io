@@ -9,7 +9,7 @@ var content = [
     ['总部后台','http://admin.x.mila66.com/comp/bill-manager?uuid=QjAyRjZERTEtNzc0Mi0xRkIxLTQ0N0ItM0Y1QThBMzZERDI3'],
     ['社保','http://www.shebao520.com/aboutus'],
     ['商城','http://mall.que360.com/'],
-    ['taiga','http://taiga.mila66.com/']
+    ['taiga','http://taiga.mila66.com/'],
     ['gitlab','http://gitlab.mila66.com'],
     ['google','https://www.google.com'],
     ['react首页', 'https://facebook.github.io/react/'],
