@@ -80,7 +80,8 @@ var content = [
     ['airBnb 规范', 'https://www.w3cschool.cn/rtuhtw/3idpuozt.html'],
     ['airBnb JSX规范', 'https://github.com/JasonBoy/javascript/tree/master/react'],
     ['可视化正则','https://jex.im/regulex/'],
-    ['redux 中文文档','http://www.redux.org.cn/docs/introduction/Motivation.html']
+    ['redux 中文文档','http://www.redux.org.cn/docs/introduction/Motivation.html'],
+    ['swagger','http://hrmapi.x.mila66.com'],
 // ['',''],
 ];
 
