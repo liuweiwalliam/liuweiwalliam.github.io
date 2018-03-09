@@ -23,7 +23,7 @@ var content = [
 	['简书', 'http://www.jianshu.com/p/43bf4f2e0d57'],
 	['IFE', 'http://ife.baidu.com/'],
 	['w3scholl sql', 'http://www.w3school.com.cn/sql'],
-	['developers-google', 'https://developers.google.cn/products/'],
+	['developers google', 'https://developers.google.cn/products/'],
 	['weui', 'https://github.com/logoove/weui'],
 	['jqweui', 'http://jqweui.com/download'],
 	['zepto', 'http://www.css88.com/doc/zeptojs_api/#show'],

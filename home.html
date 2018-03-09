@@ -10,11 +10,12 @@
     <meta name="format-detection" content="telephone=no">
     <title>主页</title>
     <style>
-        html body{
+        html body {
             background-color: #eeeeee;
-            padding-right:10px ;
-            poadding-left:10px ;
+            /*padding-right: 10px;*/
+            margin: 0 !important;
         }
+
         .search_block {
             width: 100%;
             height: 80px;
@@ -22,25 +23,34 @@
             text-align: center;
         }
 
+        .block_container {
+            display: inline-block;
+            margin: 10px 15px;
+        }
+
         .block {
             width: 120px;
             height: 80px;
-            margin-top:8px;
-            margin-bottom:8px;
-            margin-right:8px ;
-            margin-left:8px ;
+            margin: 8px;
             float: left;
+            text-align: center;
             box-sizing: border-box;
             border: 2px solid transparent;
             border-radius: 8px;
-            text-align: center;
             background-color: #999999;
             align-items: center;
             display: flex;
         }
+
+        .block span {
+            width: 100%;
+            display: inline-block;
+            text-align: center;
+        }
+
         @media (max-width: 720px ) {
             .block {
-                width: 30vw;
+                width: 27vw!important;
                 height: 60px;
             }
         }
@@ -50,16 +60,17 @@
             background-color: #bbbbbb;
         }
 
-        .block a {
-            width: 100%;
-            line-heigh: 60px;
-            display: inline-block;
-            text-decoration: none;
+        a .block {
+            width: 125px;
+            display: flex;
+            margin: auto;
+            text-decoration: none !important;
+            text-align: center;
             color: #000000;
             transition: all 0.3s ease 0s;
         }
 
-        .block a:hover {
+        a:hover .block {
             color: #313335;
         }
 
@@ -86,7 +97,6 @@
             display: inline-block;
             text-align: start;
             -webkit-writing-mode: horizontal-tb;
-            display:inline-block;
             vertical-align: top;
             position: relative;
             left: 1px;
@@ -106,6 +116,11 @@
             background-color: #e9e9e9;
             cursor: pointer;
         }
+        .container{
+            width: 100%;
+            height: auto;
+            /*margin:0  -8px;*/
+        }
     </style>
 </head>
 <body>
@@ -114,27 +129,35 @@
     ><span id="search_btn" class="search_btn" onclick="search();">go</span>
 </div>
 <br/>
-<div style="width: 100%;height: auto;" id="container"></div>
+<div style="" id="container" class="container"></div>
 <script src="home.js"></script>
 <script>
-    function search() {
-        var text = encodeURI(document.getElementById("search_input").value);
-        window.open('https://www.baidu.com/s?wd=' + text + '&rsv_spt=1&rsv_iqid=0xfa13038b00007a23&issp=1&f=8&rsv_bp=0&' +
-                'rsv_idx=2&ie=utf-8&tn=96079920_hao_pg&rsv_enter=1&rsv_sug3=8&rsv_sug1=6&rsv_sug7=100&rsv_sug2=0&inputT=' +
-                '1491&rsv_sug4=2274')};
-    function clicka(_that) {
-        _that.getElementsByTagName("a")[0].click();
-    };
-    var htmlstr = "";
-    content.forEach (function (item) {
-        htmlstr += '<div class="block" onclick="clicka(this)"><a href="'+item[1]+'" target="_blank">'+item[0]+'</a></div>';
-    });
-    document.getElementById("container").innerHTML = htmlstr;
-    function up (_that,event) {
-        if(event.keyCode == 13){
-            search();
-        };
-    };
+	function search() {
+		let text = encodeURI(document.getElementById("search_input").value);
+		window.open('https://www.baidu.com/s?wd=' + text)
+	};
+
+	// function clicka(_that) {
+	// 	_that.getElementsByTagName("a")[0].click();
+	// };
+	let htmlstr = "";
+	content.forEach(function (item) {
+		htmlstr += `<a  href = ${ item[1]}
+                        target = "_blank"
+                        class = "block_container">
+                        <div class="block">
+                            <span>${item[0]}</span>
+                        </div>
+                    </a>`;
+	});
+	document.getElementById("container").innerHTML = htmlstr;
+
+	function up(_that, event) {
+		if (event.keyCode == 13) {
+			search();
+		}
+		;
+	};
 </script>
 </body>
 </html>
