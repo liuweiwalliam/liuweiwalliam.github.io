@@ -4,13 +4,13 @@
 let content = [
 	['dev1 env', 'http://hrmlocal.dev.mila66.com'],
 	['dev2 env', 'http://hrmlocal.dev2.mila66.com'],//http://localhost:3003/
-	['localhost:3003', 'http://localhost:3003'],
-	['localhost:3005', 'http://localhost:3005/'],
 	['test env', 'http://hrmv3.x.mila66.com'],
+	['admin:3003', 'http://localhost:3003'],
+	['help:3005', 'http://localhost:3005/'],
 	['local.oauth', 'http://local.oauth.com'],
 	['local.account','http://local.account.com'],
-	['本地官网','http://milaweb.dev.mila66.com'],
-	['测试2', 'http://hrmv3.x.mila66.com/home?redirect=1'],
+	['local.milaweb','http://milaweb.dev.mila66.com'],
+	['测试', 'http://hrmv3.x.mila66.com/home?redirect=1'],
 	['总部后台', 'http://admin.x.mila66.com/comp/bill-manager?uuid=QjAyRjZERTEtNzc0Mi0xRkIxLTQ0N0ItM0Y1QThBMzZERDI3'],
 	['社保', 'http://www.shebao520.com/aboutus'],
 	['商城', 'http://mall.que360.com/'],
