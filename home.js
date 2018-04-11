@@ -87,7 +87,8 @@ let content = [
 	['可视化正则', 'https://jex.im/regulex/'],
 	['babel-在线实验', 'http://babeljs.io'],
 	['redux 中文文档', 'http://www.redux.org.cn/docs/introduction/Motivation.html'],
-	['swagger-local', 'http://hrmapi.dev.mila66.com/'],
+	['swagger-dev', 'http://hrmapi.dev.mila66.com/'],
+	['swagger-dev2', 'http://hrmapi.dev2.mila66.com/'],
 	['swagger-test', 'http://hrmapi.x.mila66.com'],
 	['swagger-oauth授权', 'http://oauth.dev2.mila66.com/api-docs'],
 	["在线代码调试","https://tool.lu/coderunner/"]
