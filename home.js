@@ -5,7 +5,8 @@ let content = [
 	['dev1 env', 'http://hrmlocal.dev.mila66.com'],
 	['dev2 env', 'http://hrmlocal.dev2.mila66.com'],//http://localhost:3003/
 	['test env', 'http://hrmv3.x.mila66.com'],
-	['admin:3003', 'http://localhost:3003'],
+	['3003:admin', 'http://localhost:3003'],
+	['test:admin', 'http://localhost:3003'],
 	['help:3005', 'http://localhost:3005/'],
 	['local.oauth', 'http://local.oauth.com'],
 	['local.account','http://local.account.com'],
