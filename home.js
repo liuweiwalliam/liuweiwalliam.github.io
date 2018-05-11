@@ -13,6 +13,7 @@ let content = [
 	['local.milaweb','http://milaweb.dev.mila66.com'],
 	['test.milaweb','http://www.x.mila66.com/'],
 	['test.saasAdmin','http://saasadmin.x2.mila66.com'],
+	['saasAdmin 权限添加','http://saasadmin.x2.mila66.com/api-docs'],
 	['测试', 'http://hrmv3.x.mila66.com/home?redirect=1'],
 	['总部后台', 'http://admin.x.mila66.com/comp/bill-manager?uuid=QjAyRjZERTEtNzc0Mi0xRkIxLTQ0N0ItM0Y1QThBMzZERDI3'],
 	['社保', 'http://www.shebao520.com/aboutus'],
