@@ -79,6 +79,7 @@ let content = [
 	['墨刀', 'https://v3.modao.cc/app/geWjAHBkgDJqekbVj56wf92IFWjni0u#screen=s3E466728601496913164472'],
 	['lavas PWA', 'https://lavas.baidu.com/doc/why-is-progressive'],
 	['elemnetUI', 'http://element.eleme.io/#/zh-CN/component/installation'],
+	['js多种算法 及实现', 'https://github.com/trekhleb/javascript-algorithms/blob/master/README.zh-CN.md'],
 	['vue-resouce', 'https://github.com/pagekit/vue-resource'],
 	['vue-router', 'https://router.vuejs.org/zh-cn/'],
 	['正则表达式', 'https://regexper.com/'],
