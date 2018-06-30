@@ -90,6 +90,7 @@ let content = [
 	['airBnb 规范', 'https://www.w3cschool.cn/rtuhtw/3idpuozt.html'],
 	['airBnb JSX规范', 'https://github.com/JasonBoy/javascript/tree/master/react'],
 	['可视化正则', 'https://jex.im/regulex/'],
+	['你不知道的前端知识点 justjavac', 'https://github.com/justjavac/the-front-end-knowledge-you-may-not-know'],
 	['babel-在线实验', 'http://babeljs.io'],
 	['redux 中文文档', 'http://www.redux.org.cn/docs/introduction/Motivation.html'],
 	['swagger-dev', 'http://hrmapi.dev.mila66.com/'],
