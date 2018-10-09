@@ -84,6 +84,7 @@ let content = [
 	['elemnetUI', 'http://element.eleme.io/#/zh-CN/component/installation'],
 	['js多种算法 及实现', 'https://github.com/trekhleb/javascript-algorithms/blob/master/README.zh-CN.md'],
 	['vue-resouce', 'https://github.com/pagekit/vue-resource'],
+	['微前端', 'https://github.com/phodal/microfrontends'],
 	['vue-router', 'https://router.vuejs.org/zh-cn/'],
 	['正则表达式', 'https://regexper.com/'],
 	['网易编译原理', 'http://mooc.study.163.com/learn/1000002001?tid=1000003000#/learn/content'],
