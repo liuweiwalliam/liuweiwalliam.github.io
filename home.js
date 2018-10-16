@@ -5,6 +5,7 @@ let content = [
 	['dev1 env', 'http://hrmlocal.dev.mila66.com'],
 	['dev2 env', 'http://hrmlocal.dev2.mila66.com'],//http://localhost:3003/
 	['test env', 'http://hrmv3.x.mila66.com'],
+	['pre env', 'http://saas.x.que360.com'],
 	['3003:admin', 'http://localhost:3003'],
 	['product:admin', 'http://h28uan.que360.com'],
 	['test1:saasAdmin', 'http://saasadmin.x.mila66.com'],
