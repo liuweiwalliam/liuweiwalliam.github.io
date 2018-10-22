@@ -11,6 +11,7 @@ let content = [
 	['test1:saasAdmin', 'http://saasadmin.x.mila66.com'],
 	['test2:saasAdmin', 'http://saasadmin.x2.mila66.com'],
 	['test3:saasAdmin', 'http://saasadmin.x3.mila66.com'],
+	['pre.saasAdmin','https://h28uan.x.que360.com/integral/member'],
 	['正式.saasAdmin','https://h28uan.que360.com/integral/member'],
 	['help:3005', 'http://localhost:3005/'],
 	['local.oauth', 'http://local.oauth.com'],
