@@ -13,6 +13,8 @@ let content = [
     ['hao123', 'https://www.hao123.com'],
     ['简书', 'http://www.jianshu.com/p/43bf4f2e0d57'],
     ['IFE', 'http://ife.baidu.com/'],
+    ["iconfont","https://www.iconfont.cn/"],
+    ['vue', 'https://cn.vuejs.org/v2/guide/'],
     ['w3scholl sql', 'http://www.w3school.com.cn/sql'],
     ['developers google', 'https://developers.google.cn/products/'],
     ['weui', 'https://github.com/logoove/weui'],
@@ -64,7 +66,6 @@ let content = [
     ['js多种算法 及实现', 'https://github.com/trekhleb/javascript-algorithms/blob/master/README.zh-CN.md'],
     ['vue-resouce', 'https://github.com/pagekit/vue-resource'],
     ['微前端', 'https://github.com/phodal/microfrontends'],
-    ['vue-router', 'https://router.vuejs.org/zh-cn/'],
     ['正则表达式', 'https://regexper.com/'],
     ['网易编译原理', 'http://mooc.study.163.com/learn/1000002001?tid=1000003000#/learn/content'],
     ['网易编译原理', 'http://mooc.study.163.com/learn/1000002001?tid=1000003000#/learn/content'],
@@ -78,7 +79,6 @@ let content = [
     ['redux 中文文档', 'http://www.redux.org.cn/docs/introduction/Motivation.html'],
 
     ["在线代码调试", "https://tool.lu/coderunner/"],
-    // ["":""]
     // ["":""]
     // ["":""]
     // ["":""]
