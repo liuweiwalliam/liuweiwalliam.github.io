@@ -77,23 +77,25 @@ let content = [
     ['你不知道的前端知识点 justjavac', 'https://github.com/justjavac/the-front-end-knowledge-you-may-not-know'],
     ['babel-在线实验', 'http://babeljs.io'],
     ['redux 中文文档', 'http://www.redux.org.cn/docs/introduction/Motivation.html'],
-
     ["在线代码调试", "https://tool.lu/coderunner/"],
-    // ["":""]
-    // ["":""]
-    // ["":""]
-    // ["":""]
-    // ["":""]
-    // ["":""]
-    // ["":""]
-    // ["":""]
-    // ["":""]
-    // ["":""]
-    // ["":""]
-    // ["":""]
-    // ["":""]
-    // ["":""]
-    // ["":""]
+    ["es6 阮一峰","http://es6.ruanyifeng.com/"],
+    ["极客时间","https://time.geekbang.org/"],
+    ["leet code","https://leetcode-cn.com/"],
+    // ["",""],
+    // ["",""],
+    // ["",""],
+    // ["",""],
+    // ["",""],
+    // ["",""],
+    // ["",""],
+    // ["",""],
+    // ["",""],
+    // ["",""],
+    // ["",""],
+    // ["",""],
+    // ["",""],
+    // ["",""],
+    // ["",""],
     /**
      ['dev1 env', 'http://hrmlocal.dev.mila66.com'],
      ['dev2 env', 'http://hrmlocal.dev2.mila66.com'],//http://localhost:3003/
