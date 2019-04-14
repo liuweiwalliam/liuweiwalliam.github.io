@@ -71,6 +71,7 @@ let content = [
   ['简书', 'http://www.jianshu.com/p/43bf4f2e0d57'],
   ['阮一峰的js全篇教程', 'http://javascript.ruanyifeng.com/nodejs/module.html#toc0'],
   ['node学习github版', 'https://github.com/wwsun/awesome-javascript'],
+  ['慕课网', 'https://www.imooc.com'],
   ['e-charts', 'http://echarts.baidu.com/'],
   [
     'react实现的SPA后台管理系统',
