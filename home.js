@@ -162,7 +162,7 @@ let content = [
     "https://github.com/trekhleb/javascript-algorithms/blob/master/README.zh-CN.md",
   ],
   ["冴羽的博客-深入js", "https://github.com/mqyqingfeng/Blog"],
-  // ["",""],
+  ["vue源码-神仙朱", "https://www.zhihu.com/people/hoholoving/posts?page=4"],
   // ["",""],
   // ["",""],
   // ["",""],
