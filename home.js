@@ -163,7 +163,7 @@ let content = [
   ],
   ["冴羽的博客-深入js", "https://github.com/mqyqingfeng/Blog"],
   ["vue源码-神仙朱", "https://www.zhihu.com/people/hoholoving/posts?page=4"],
-  // ["",""],
+  ["设计模式", "https://refactoringguru.cn"],
   // ["",""],
   // ["",""],
   // ["",""],
