@@ -186,7 +186,7 @@ let content = [
   ["whitel文档","https://github.com/avwo/whistle/blob/master/README-zh_CN.md"],
   ["vscode 插件","https://marketplace.visualstudio.com/items?itemName=donjayamanne.githistory"],
   ["vben admin","https://www.reawing.com/components/form.html#usage"],
-  // ["",""],
+  ["svgicon","https://remixicon.com/"],
   // ["",""],
   // ["",""],
   // ["",""],
