@@ -26,7 +26,7 @@ let content = [
   ["vue3 doc","https://staging-cn.vuejs.org/guide/introduction.html"],
   ["compare","https://text-compare.com/zh-hans/"],
   ["smis 小程序 git","https://git.weixin.qq.com/zhangxiawei/smis3.1vx/merge_requests/1/diffs"],
-  // ["",""],
+  ["vue3官网","https://vuejs.org/"],
   // ["",""],
   // ["",""],
   // ["",""],
