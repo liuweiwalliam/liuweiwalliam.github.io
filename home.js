@@ -190,7 +190,7 @@ let content = [
   ["di 轻应用创建","https://coco-hk-di1.sit.cmhk.com/appWb/#/mySpace/onlineProduct/appSetting?appId=78203c0bc33db51430d9a7fbb6b2a698&type=01"],
   ["di 轻应用审核","https://gw-api-hk-di1.sit.cmft.com:8085/acmanage/#/appManagement"],
   ["招商随行应用接入指南","https://www.cm-worklink.com/doc/#/%E4%B8%89.%E6%9C%8D%E5%8A%A1%E7%AB%AF%E6%96%87%E6%A1%A3/%E6%B5%8B%E8%AF%95%E7%8E%AF%E5%A2%83%E8%BD%BB%E5%BA%94%E7%94%A8%E4%B8%8A%E6%9E%B6%E6%B5%81%E7%A8%8B"],
-  // ["",""],
+  ["geek软考","https://u.geekbang.org/lesson/724?article=830878"],
   // ["",""],
   // ["",""],
   // ["",""],
