@@ -2,6 +2,8 @@
  * Created by walliam on 2017/2/7.
  */
 let content = [
+
+  ["deepSeek", "https://chat.deepseek.com/"],
   ["google", "https://www.google.com"],
   ["react首页", "https://facebook.github.io/react/"],
   [
