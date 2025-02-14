@@ -23,7 +23,7 @@ let content = [
   ["vxe table","https://vxetable.cn/v3/#/table/base/sort"],
   ["创宇 云防","https://ucdp.365cyd.com/property/list/"],
   ["招商云","https://paas.cmft.com/paas-caas/#/workload"],
-  ["pm-web","http://pm-web.cmit1872.com:8800/login?redirect=/index"],
+  ["国科smp","https://pmit.cmit1872.com:8843/index"],
   ["pmit","http://pmit.cmit1872.com:8088/user/home/index"],
   ["vue3 doc","https://staging-cn.vuejs.org/guide/introduction.html"],
   ["compare","https://text-compare.com/zh-hans/"],
