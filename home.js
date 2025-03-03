@@ -5,6 +5,7 @@ let content = [
 
   ["deepSeek", "https://chat.deepseek.com/"],
   ["google", "https://www.google.com"],
+  ["腾讯元宝", "https://yuanbao.tencent.com/chat/naQivTmsDa"],
   ["react首页", "https://facebook.github.io/react/"],
   [
     "阮一峰react系列",
