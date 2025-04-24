@@ -198,7 +198,7 @@ let content = [
   ["安度-外网","https://10.128.3.85/UniExServices/view/jsp/index.jsp"],
   ["安度-内网","https://10.128.3.90/UniExServices/view/jsp/index.jsp"],
   ["readdy ai","https://readdy.ai/home/18beca13-320f-464e-9b8e-70cf490be6c7"],
-  // ["",""],
+  ["codesign","https://codesign.qq.com/app/design?team_id=545918690612961"],
   // ["",""],
   // ["",""],
   // ["",""],
