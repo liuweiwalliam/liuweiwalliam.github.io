@@ -200,7 +200,11 @@ let content = [
   ["readdy ai","https://readdy.ai/home/18beca13-320f-464e-9b8e-70cf490be6c7"],
   ["codesign","https://codesign.qq.com/app/design?team_id=545918690612961"],
   ["vant","https://vant-ui.github.io/vant/#/zh-CN/dialog"],
+<<<<<<< HEAD
   ["软考报名","https://bm.ruankao.org.cn/sign/welcome"],
+=======
+  ["影视库","https://yingshi.xiaok1.cn/"],
+>>>>>>> 202e5c0c3f81fd7e9e3b8de47adec1b3d3ad33c5
   // ["",""],
   // ["",""],
   // ["",""],
