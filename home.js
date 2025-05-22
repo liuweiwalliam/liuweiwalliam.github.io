@@ -182,6 +182,7 @@ let content = [
   ["空间","https://user.qzone.qq.com/2097524883"],
   ["solar","http://sola.oa.com/"],
   ["腾讯文档","https://docs.qq.com/desktop"],
+  ["企业微信文档","https://doc.weixin.qq.com/home/recent"],
   ["processon 绘图","https://www.processon.com/"],
   ["tsw","https://qzone.tswjs.org/log/view/2097524883"],
   ["whitel文档","https://github.com/avwo/whistle/blob/master/README-zh_CN.md"],
