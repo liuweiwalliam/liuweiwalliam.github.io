@@ -126,6 +126,7 @@ let content = [
   ],
   ["lavas PWA", "https://lavas.baidu.com/doc/why-is-progressive"],
   ["elemnetUI", "http://element.eleme.io/#/zh-CN/component/installation"],
+  
   [
     "js多种算法 及实现",
     "https://github.com/trekhleb/javascript-algorithms/blob/master/README.zh-CN.md",
@@ -202,8 +203,7 @@ let content = [
   ["vant","https://vant-ui.github.io/vant/#/zh-CN/dialog"],
   ["软考报名","https://bm.ruankao.org.cn/sign/welcome"],
   ["影视库","https://yingshi.xiaok1.cn/"],
-  // ["",""],
-  // ["",""],
+  ["vscode 离线插件","https://open-vsx.org/"],
   // ["",""],
   // ["",""],
   // ["",""],
@@ -233,9 +233,6 @@ let content = [
   // ["",""],
   // ["",""],
   /**
-   ['dev1 env', 'http://hrmlocal.dev.mila66.com'],
-   ['dev2 env', 'http://hrmlocal.dev2.mila66.com'],//http://localhost:3003/
-   ['test env', 'http://hrmv3.x.mila66.com'],
 
    **/
 ];
